@@ -12,7 +12,7 @@ import SwiftUI
 struct MasteringWidgetKitApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            WorkoutView()
         }
     }
 }
